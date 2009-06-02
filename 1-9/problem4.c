@@ -4,7 +4,6 @@
  */
 
 #include <stdio.h>
-#include <string.h>
 
 static int is_palindromic(unsigned int n);
 
