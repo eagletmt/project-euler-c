@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2009, eagletmt
+ * Released under the MIT License <http://opensource.org/licenses/mit-license.php>
+ */
+
 #include <stdio.h>
 
 static unsigned long gcd(unsigned long a, unsigned long b);
